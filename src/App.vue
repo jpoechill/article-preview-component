@@ -34,8 +34,8 @@ const handleClick = (term: OrderTerm) => {
           <div class="flex text-[13px]">
             <img src="/avatar-michelle.jpg" class="rounded-full mr-[16px] w-[40px] h-[40px]" alt="Avatar Michelle">
             <div>
-              <span class="font-bold">Michelle Appleton</span><br>
-              28 June 2020
+              <span class="font-bold text-[#48556A]">Michelle Appleton</span><br>
+              <span class="text-[#9DAEC2]">28 June 2020</span>
             </div>
           </div>
           <div>
